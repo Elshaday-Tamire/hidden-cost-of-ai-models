@@ -1,0 +1,23 @@
+---
+title: "About This Blog"
+image: images/profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/elshaday-tamire-yoseph/
+    - icon: github
+      text: Github
+      href: https://github.com/Elshaday-Tamire
+
+---
+
+Welcome to "How Does ChatGPT Drink Water? The Hidden Cost of AI Models," a blog dedicated to exploring the fascinating intersection of artificial intelligence and environmental sustainability. This space is designed to shed light on the unseen costs of AI technologies, particularly their water footprint, and inspire meaningful discussions about responsible innovation.
+
+**Author:** Elshaday Yoseph
+
+As a tech enthusiast and data scientist, I’m passionate about uncovering the hidden impacts of modern technologies and advocating for sustainable solutions. Through this blog, I aim to educate, engage, and empower readers to think critically about the technologies shaping our future.
+
+Thank you for visiting, and I hope you find this exploration both insightful and thought-provoking.
+

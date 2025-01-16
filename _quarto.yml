@@ -1,0 +1,20 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  navbar:
+    right:
+      - about.qmd
+      - icon: linkedin
+        href: https://www.linkedin.com/in/elshaday-tamire-yoseph/
+      - icon: github
+        href: https://github.com/Elshaday-Tamire
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+
+
+
