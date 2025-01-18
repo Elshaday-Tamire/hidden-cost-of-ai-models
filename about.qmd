@@ -19,23 +19,5 @@ Welcome to "How Does ChatGPT Drink Water? The Hidden Cost of AI Models," a blog 
 
 As a tech enthusiast and data scientist, I’m passionate about uncovering the hidden impacts of modern technologies and advocating for sustainable solutions. Through this blog, I aim to educate, engage, and empower readers to think critically about the technologies shaping our future.
 
----
+Thank you for visiting, and I hope you find this exploration both insightful and thought-provoking.
 
-### Contact and Feedback
-
-I value your feedback and would love to hear your thoughts. Please use the form below to send your comments or questions directly to my email:
-
-<form action="mailto:elshadayrn13@gmail.com" method="post" enctype="text/plain">
-  <label for="name">Your Name:</label><br>
-  <input type="text" id="name" name="name" placeholder="Enter your name" required><br><br>
-  
-  <label for="email">Your Email:</label><br>
-  <input type="email" id="email" name="email" placeholder="Enter your email" required><br><br>
-  
-  <label for="message">Your Feedback:</label><br>
-  <textarea id="message" name="message" rows="4" cols="50" placeholder="Write your feedback here..." required></textarea><br><br>
-  
-  <input type="submit" value="Send Feedback">
-</form>
-
----
